@@ -1,0 +1,5 @@
+
+
+
+
+//Word Constructor Function
