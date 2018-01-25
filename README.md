@@ -6,7 +6,7 @@
 ### Homework Assignment for UT Coding Bootcamp - Austin
 * This is a command line Hangman Game 
 * Built on javascript and node.js to run in the console using constructor functions
-* Utilizes Inquirer, Prompt, and Colors packages to engage the user, display their response and make it look colorful.
+* Utilizes Inquirer and Colors packages to engage the user, display their response and make it look colorful.
 
 ## Description of Game
 

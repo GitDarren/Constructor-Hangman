@@ -2,4 +2,5 @@
 
 
 
-//Word Constructor Function
+//Letter Constructor Function
+
