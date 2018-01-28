@@ -1,9 +1,19 @@
 
 
+var wordBank = 
+[
+"patton",
+"amadeus",
+"jaws"
+];
 
-//Word Constructor Function
+var Word = function()   {
+//    this.wordBank = wordBank;
+   this.randomWord = wordBank[Math.floor(wordBank.length * Math.random())] 
+}
 
-var LetterCon = require("./letter.js")
+// var newWord = new Word;
 
-//Not sure what the hell I'm doing with this constructor function, however I'm pretty sure I need to bring in Letter.js
-//to eventually populate main.js
+// console.log(newWord);
+
+module.exports = Word;
