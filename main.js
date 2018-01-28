@@ -13,8 +13,11 @@ var lives = 6;
 var word = {};
 var gameLetters = {};
 
+console.log(`Welcome to the Constructor Hangman Game.  Prepare to be rocked!`);
+
+
 var CheckWinLoss = function() {
-  if(gameLetters.badGuess.length === lives) {
+  if(gameLetters.badGuess.length === 6) {
     console.log(`You are a big fat loser, but you should keep playing`);
     getWord();
     return;
@@ -23,6 +26,7 @@ var CheckWinLoss = function() {
     getWord();
     return;
   } else {
+    console.log(`Bad Guesses Remaining: ${lives - gameLetters.badGuess.length}`);
     getLetter();
   }
 }
@@ -38,6 +42,7 @@ var getWord = function()  {
   gameLetters = new Letter(wordToGuess);
   gameLetters.letterArray();
   console.log(gameLetters.gameDashes.join(' ')); 
+  console.log(`You have ${lives} lives yet. Don't fuck up!`)
   CheckWinLoss();
 };
 
