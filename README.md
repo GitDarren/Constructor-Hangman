@@ -2,7 +2,7 @@
 
 ## Overview
 
-<a href = "https://github.com/GitDarren/Constructor-Hangman/blob/master/Constructor%20Hangman.gif"></a>
+![Hangman Constructor Game gif](https://github.com/GitDarren/Constructor-Hangman/blob/master/Constructor%20Hangman.gif)
 
 ### Homework Assignment for UT Coding Bootcamp - Austin
 
