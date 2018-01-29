@@ -4,7 +4,22 @@ var wordBank =
 [
 "patton",
 "amadeus",
-"jaws"
+"jaws",
+"up",
+"lolita",
+"platoon",
+"spaceballs",
+'meatballs',
+'heat',
+'spy',
+'goldeneye',
+'spectre',
+'casablanca',
+'twilight',
+'tangled',
+'enchanted',
+'cars',
+''
 ];
 
 var Word = function()   {
