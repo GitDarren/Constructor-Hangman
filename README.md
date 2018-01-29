@@ -46,4 +46,4 @@
 
 ## Acknowledgements
 
-* I'm not thrilled about the Eagles/Patriots Superbowl, but the only saving grace is that if the Patriots lose, it will be a team with even worse fans than the Patriots.
+* I'm not thrilled about the Eagles/Patriots Superbowl, but the only saving grace is that if the Patriots lose, it will be to a team with even worse fans than the Patriots.
