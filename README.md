@@ -2,6 +2,8 @@
 
 ## Overview
 
+<a href = "https://github.com/GitDarren/Constructor-Hangman/blob/master/Constructor%20Hangman.gif"></a>
+
 ### Homework Assignment for UT Coding Bootcamp - Austin
 
 * This is a command line Hangman Game 
